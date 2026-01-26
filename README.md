@@ -108,3 +108,14 @@ streamlit run web_app.py
 
 ## 📄 License
 Project created for SCDS TechFest 2026.
+
+## Aknowledgement and Useful Links
+### This is a team project done by four CCDS students from Nanyang Technological University.
+### I would like to express my sincere gratitude and special thanks for the hard work and contributions of my teammates (Represented by their handle on GitHub): BinaryOutlook, a1376654147-cmd, and zhangxiaozhuang398-max.
+### This project can also be found at https://github.com/BinaryOutlook/26-SCDS-Techfest, the repository we used during our Hackathon event for our final submission.
+### There are two versions of demo video for this project, version 1 is more like an overview and version 2 is more focused on techniques used in our project.
+### Demo video version 1 link: https://www.youtube.com/watch?v=ef3C1O8reZc
+### Demo video version 2 link: https://www.youtube.com/watch?v=7kYysrbAIsA
+
+
+
