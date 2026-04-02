@@ -1,4 +1,4 @@
-# ReUnion ✦
+# ReUnion 
 
 > *"To bring together again that which has drifted apart—talent and opportunity—through radical transparency."*
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 📖 The Philosophy
+##  The Philosophy
 
 In the modern tech ecosystem, a lack of transparency leads to "hiring scope creep," where job requirements silently drift away from the skills candidates actually possess.
 
@@ -18,7 +18,7 @@ Like the volcanic island of **La Réunion** that constantly reshapes itself, thi
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 ### 1. Centralized Intelligence (The "Brain")
 *   **Multi-Source Ingestion**: Aggregates data from diverse sources including official CSV datasets (MyCareersFuture, Glassdoor) and unstructured PDFs (Problem Statements).
@@ -35,7 +35,7 @@ Like the volcanic island of **La Réunion** that constantly reshapes itself, thi
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Frontend**
 *   **Streamlit**: Highly customized with a "Transcendant" Glassmorphism CSS theme.
@@ -52,7 +52,7 @@ Like the volcanic island of **La Réunion** that constantly reshapes itself, thi
 
 ---
 
-## 📦 Installation & Setup
+##  Installation & Setup
 
 ### Prerequisites
 *   Python 3.9+
@@ -88,7 +88,7 @@ python3 ingest.py
 
 ---
 
-## 🚦 Usage
+##  Usage
 
 ### Start the Backend
 The backend serves the API and the Database connection.
@@ -106,7 +106,7 @@ streamlit run web_app.py
 
 ---
 
-## 📄 License
+##  License
 Project created for SCDS TechFest 2026.
 
 ## Aknowledgement and Useful Links
